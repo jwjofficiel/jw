@@ -2,9 +2,8 @@
     $to = 'briffaultwendy@orange.fr';
     $firstname = $_POST["fname"];
     $email= $_POST["email"];
-    $text= $_POST["message"];
-    $phone= _POST["phone"];
-    
+    $text= $_POST["message"];    
+
 
 
     $headers = 'MIME-Version: 1.0' . "\r\n";
