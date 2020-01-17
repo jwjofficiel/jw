@@ -16,7 +16,6 @@
             <td>'.$firstname.'  '.$laststname.'</td>
         </tr>
         <tr><td>Email: '.$email.'</td></tr>
-        <tr><td>phone: '.phone.'</td></tr>
         <tr><td>Text: '.$text.'</td></tr>
         
     </table>';
