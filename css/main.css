@@ -2022,7 +2022,7 @@ nav a:hover {
 }
 
 .banner-area {
-  background: url(../img/banner-bg.jpg) no-repeat center center/cover;
+  background: url(../img/bannierejwjwebsiteofficiel.jpg) no-repeat center center/cover;
 }
 
 @media (max-width: 767px) {
@@ -2527,4 +2527,17 @@ nav a:hover {
   .footer-social {
     text-align: left;
   }
+
+embed {
+    font-size: .8rem;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
 }
+
+.embed {
+    background: #eee;
+    position: relative;
+}
+
+ }
